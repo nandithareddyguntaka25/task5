@@ -1,0 +1,5 @@
+OrderID,CustomerID,Product
+101,1,Laptop
+102,2,Tablet
+103,1,Keyboard
+104,6,Mouse
